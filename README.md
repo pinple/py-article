@@ -12,4 +12,5 @@
 8. [C3 线性化算法与 MRO](http://kaiyuan.me/2016/04/27/C3_linearization/)
 9. [生成器和协程](http://kaiyuan.me/2016/04/04/Python_coroutine/)
 10. [理解 Python asyncio](https://lotabout.me/2017/understand-python-asyncio/)
+11. [关于Monkey Patch猴子补丁](https://blog.eson.org/pub/7b5bc9fe/)
 
